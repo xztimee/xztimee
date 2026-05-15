@@ -28,6 +28,6 @@ A developer who works with **C++**, **Python**, **Node.js**, and **Java**.
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xztimee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xztimee&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=xztimee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=xztimee&layout=compact&langs_count=6&theme=dark"/>
 </p>
