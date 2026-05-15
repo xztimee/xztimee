@@ -15,9 +15,6 @@ A developer who works with **C++**, **Python**, **Node.js**, **Java**, **Swift**
   <a href="https://t.me/luisepog">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:xztimee@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/xztimee">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -29,6 +26,9 @@ A developer who works with **C++**, **Python**, **Node.js**, **Java**, **Swift**
 
 - **iOS App Development** — Building native apps with Swift
 - **Jailbreak Tweak Development** — Creating tweaks for jailbroken iDevices using Objective-C and Theos
+- **Minecraft Plugin Development** — Building Java plugins for Minecraft servers
+- **Minecraft Server Forks** — Optimizing server performance with custom forks
+- **API Authentication Server** — Building secure API key auth systems with Node.js
 
 ## Tech Stack
 
